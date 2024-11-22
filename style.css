@@ -1,0 +1,17 @@
+body {
+	background-color: #A7C4A0;
+	color: #C9C5BA;
+	font-family: "ADLaM Display", system-ui;
+	font-size: 22px;
+}
+
+.container {
+	background-color: #97B1A6;
+	padding: 20px;
+}
+
+img {
+	width: 170px;
+	height:170px;
+
+}
